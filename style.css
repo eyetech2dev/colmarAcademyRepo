@@ -1,0 +1,11 @@
+.nav-logo {
+    display: flex;
+}
+.nav-links {
+    display: inline-flex;
+    
+}
+.nav-linklist {
+display: flex;
+justify-content: end;
+}
